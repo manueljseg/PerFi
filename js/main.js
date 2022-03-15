@@ -4,6 +4,8 @@ function exchange(spend, taxTotal, taxType, category, priority){
     totalSpend.push(`$${spend} gastados en ${category}.`)
 }
 
+// Objects
+
 // Arrays
 const categorySpend = ["Comida", "Salud", "Transporte", "Vivienda", "Educación", "Suscripciones", "Gustos", "Donaciones", "Deudas", "Otros"]
 
